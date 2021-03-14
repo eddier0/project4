@@ -1,17 +1,67 @@
 
 
+h2{
+  font-weight: bold;
+}
 #section1 {
   background-image: url(images/headphones.jpg) ;
   background-size: cover;
   height: 100vh;
-  width: 100%;
-  min-height: auto;
   text-align: center;
-  color: black;
-  position: relative;
-  width: 100%;
-  padding: 20% 60% 5% 5%; 
+  color: #fff;
  } 
+
+
+#section2 {
+ margin-top: 5%;
+ margin-bottom: 5%;
+ font-size: 30px;
+}
+
+
+#section3 {
+  background-color: lightgrey;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 20px;
+ }
+
+ #section4 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 20px;
+ }
+
+
+ #section5 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 20px;
+ }
+
+
+ #section6 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 20px;
+ }
+
+ #section7 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 20px;
+ }
+
+
+
+
+
+
+
+
+
+
+
 
  .btn-default {
   border-color: #fff;
