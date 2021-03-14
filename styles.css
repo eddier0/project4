@@ -3,6 +3,13 @@
 h2{
   font-weight: bold;
 }
+
+.container-fluid{
+margin: 0%;
+padding: 0%;
+}
+
+
 #section1 {
   background-image: url(images/headphones.jpg) ;
   background-size: cover;
